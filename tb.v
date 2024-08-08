@@ -1,3 +1,6 @@
+//I type module
+
+
 module ITypeInstruction_tb;
 
     reg [31:0] a;
